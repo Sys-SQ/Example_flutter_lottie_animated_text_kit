@@ -1,6 +1,16 @@
 # lottie_example
+Realizamos varios ejemplos de **animated_text_kit** para la animacion de las letras 
+y tambien realizamos un ejemplo simple de **lottie** para la animacion con imagenes del siguiente sitio web *https://lottiefiles.com/search?q=searching&category=animations*
 
-A new Flutter project.
+### Ejemplo de Bacdrop Filter
+Es para la opacidad de un widget
+### Adicionamos un ejemplo de FadeTransition
+Es para la animacion que aparece y desaparece
+### Adicionamos wakelock 
+es un paquete de bloqueo
+### Adcionamos ImageFiltered
+para que muestre imagenes de forma dinamica con rotacion y esas webas
+-- -
 ### Para formatear fechas
 jiffy: ^6.3.1
 ### Cronometro
