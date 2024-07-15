@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:lottie_example/pages/ImageFiltered/imageFilter.dart';
+import 'package:lottie_example/pages/awesome_snackbar_content/awesome_snackbar.dart';
 import 'package:lottie_example/pages/backdropFilter/backdrop.dart';
 import 'package:lottie_example/pages/fade_transition/fadeTransition.dart';
 import 'package:lottie_example/pages/lottie/lottie.dart';
@@ -22,7 +23,8 @@ class MyApp extends StatelessWidget {
         // body: FadeTransitionExample(),
         // body: WakelockExample(),
         // body: ImageFilteredExample(),
-        body: TooltipExample(),
+        // body: TooltipExample(),
+        body: AwesomeSnackBarContend(),
       ),
     );
   }
