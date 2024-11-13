@@ -35,3 +35,4 @@ dart_date: ^1.3.3
 whatsapp_unilink: ^2.1.0
 ### Para que carge con nuestra personalizacion
 flutter_native_splash
+### Soy dosaraviaq
